@@ -9,7 +9,7 @@
 - First download "miniconda Linux 64bit" from https://docs.conda.io/en/latest/miniconda.html 
 - This can be done using wget command, or first download it to your computer and use the upload icon on the jupyterhub to upload the Miniconda3-XXXX.sh file to your home directory
 - Execute the shell script by typing as follows and set up base of miniconda3
-> bash Miniconda3-pyXXXX-Linux-x86_64.sh
+> bash Miniconda3-XXXX.sh
 - Follow the prompts. It will ask for the destination to install miniconda3. I suggest you follow the prompt and use your $HOME.   
 - It will ask "Do you wish the installer to initialize Miniconda3?". Answer no to this one. 
 - You can manually initialize miniconda3 by typing at the command prompt as follows: 
