@@ -40,4 +40,5 @@
 - 10km resolution model output is stored in '/glade/p/univ/ugit0016/rso/ecoDrake.64t.10km.42lev/ver8/'
 - SeaFlux (Fay et al., 2021) observation is stored in '/glade/work/ito/dataset/ocean/'
 ### Calculating and visualizing the Drake Passage pCO2 time series climatology
-- Tutorial: regional pCO2 time series [tutorial1_pco2_timeseries.ipynb](https://github.com/takaito1/rso-analysis/blob/main/tutorial1_pco2_timeseries.ipynb). This tutorial shows basic I/O with xarray, calculation of regional pCO2 data, and basic plotting 
+- Tutorial1: regional Drake Passage pCO2 time series [tutorial1_pco2_timeseries.ipynb](https://github.com/takaito1/rso-analysis/blob/main/tutorial1_pco2_timeseries.ipynb). This tutorial shows basic I/O with xarray, calculation of regional pCO2 data, and basic plotting 
+- Tutorial2: regional Udintsef Fracture Zone pCO2 time series [tutorial2_UFZpco2_timeseries.ipynb](https://github.com/takaito1/rso-analysis/blob/main/tutorial2_UFZpco2_timeseries.ipynb). This tutorial shows comparison with observation and B-SOSE data as well as the calculation of pearson's correlation coefficients 
